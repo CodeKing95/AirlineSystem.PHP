@@ -37,6 +37,13 @@ Here is what you can do with AirStar:
 - **Choose 
 ime & Date**: Choose Time & Date.
 
-- **
+- ** CRUD Passenger
+
+  ![14](https://github.com/user-attachments/assets/277065d1-69d5-46a8-9bf6-78873dbed500)
+
+![15](https://github.com/user-attachments/assets/14eb1330-5cba-49bc-83dc-66aa7f238b02)
+
+
+  
 
 # MyFlug
