@@ -26,7 +26,6 @@ Here is what you can do with AirStar:
 ![4](https://github.com/user-attachments/assets/426b3fc4-9d45-4052-bf4f-b671fea6a9f5)
 
 
-  
 - **Departure From**: You can choose from where you would like to departure.
   
 - **Destination To**: You then choose your destination such as country and city.
