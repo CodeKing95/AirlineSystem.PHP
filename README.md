@@ -13,7 +13,8 @@ This was one of the project that I have built during my university web developme
 - MYSQL
 # Features
 Here is what you can do with AirStar:
-- **Login/Register**: You can register as a passenger/or you can login with your username and password.![1](https://github.com/user-attachments/assets/0792408b-7c03-4370-a8a4-eec3a788a0da)
+- **Login/Register**: You can register as a passenger/or you can login with your username and password.
+- 
 
   
 - **Booking**: You can navigate through the website and can make a plane ticket.
