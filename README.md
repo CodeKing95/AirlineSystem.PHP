@@ -18,9 +18,13 @@ Here is what you can do with AirStar:
 
 ![2](https://github.com/user-attachments/assets/6c4f47f7-e057-45dc-90c8-4b82eaebd2b7)
 
-
-  
 - **Booking**: You can navigate through the website and can make a plane ticket.
+
+
+![3](https://github.com/user-attachments/assets/f2f9817b-1dca-4860-a740-9e94ab6fee98)
+
+![4](https://github.com/user-attachments/assets/426b3fc4-9d45-4052-bf4f-b671fea6a9f5)
+
 
   
 - **Departure From**: You can choose from where you would like to departure.
