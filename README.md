@@ -50,3 +50,46 @@ ime & Date**: Choose Time & Date.
 
 
 # Main Page
+
+
+![5](https://github.com/user-attachments/assets/8f274718-d733-4b68-bc66-556cc093d9ca)
+
+
+
+
+
+![6](https://github.com/user-attachments/assets/61e436ee-8cd4-46bb-9753-8edb2f4560c5)
+
+
+
+
+
+
+![7](https://github.com/user-attachments/assets/1dda1950-ab65-4b15-8ccb-1e118cc81b1d)
+
+![8](https://github.com/user-attachments/assets/8d228b81-c563-4ad4-a9ce-1f690e119f0a)
+
+
+
+
+
+![9](https://github.com/user-attachments/assets/bb570271-2318-419c-95d4-3b1be8fd8436)
+
+
+
+![10](https://github.com/user-attachments/assets/0a430af4-07a6-46c2-a6c3-692053d36faa)
+
+
+
+![11](https://github.com/user-attachments/assets/c3df88eb-f54a-47b8-a12b-11cc3d49bb03)
+
+
+![12](https://github.com/user-attachments/assets/578fa4b6-d56c-4eb1-a971-b5d5a0dd4553)
+
+
+
+
+![13](https://github.com/user-attachments/assets/867f0594-2af0-48ed-ad4e-b96274bb2d99)
+
+
+
