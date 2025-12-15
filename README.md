@@ -43,7 +43,10 @@ ime & Date**: Choose Time & Date.
 
 ![15](https://github.com/user-attachments/assets/14eb1330-5cba-49bc-83dc-66aa7f238b02)
 
+- ** PAYMENT
 
-  
+
+  ![16](https://github.com/user-attachments/assets/4dec726b-7f7d-4e08-ae9e-1d4fe0f5fc30)
+
 
 # MyFlug
