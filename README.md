@@ -19,6 +19,22 @@ The Airline Manangement System is a full-stack web application which is develope
 - Database:
 - MySQL.
 
+# 🎯 Purpose of the Project
+The main purpose of this project was to:
+- Demonstrate a full-stack web application skills.
+- Improving the implementation with much better design and structure.
+- Gaining hands-on experiece with real-world airline management workflows.
+- Lastly, to get comfortable with the full-stack application.
+
+# 📚 What I Learned
+- Developing and building a full-stack applications.
+- Backend database schema design.
+- Integration of frontend and backend systems.
+
+# 🔮 Future Improvements
+- User authentication and role-based access.
+- Improvement of UI/UX designs.
+- Enhanced security features.
   
 # Features
 Here is what you can do with AirStar:
