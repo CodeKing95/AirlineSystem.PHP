@@ -1,16 +1,22 @@
-# AirStar
+# ✈️ Airline Management System
 
-This is an Airline Management System project, built entirley in full-stack development.
+The Airline Manangement System is a full-stack web application which is developed to manage airline operations such as flight management, bookings, and passenger's data. This kind of project I have previously developed as part of my web development assignment during my university Bsc studies. So I have decided why not rebuilt it again from scratch to improve the architecture, performance, and overall code quality. 
 
-This was one of the project that I have built during my university web development asssignment, so I have decided to built it again entirley from scratch.
+# 🚀 Features
+- Passenger and booking management.
+- Full CRUD functionality of Passengers.
+- Secure data handling between frontend and backend.
+- Managing airline and flight data.
+- Responsive and user friendley Interface.
 
 # Technologies 
 - HTML
 - CSS
 - JAVASCRIPT
 - BOOTSTRAP
-- PHP
-- MYSQL
+Backend
+
+  
 # Features
 Here is what you can do with AirStar:
 - **Login/Register**: You can register as a passenger/or you can login with your username and password.
