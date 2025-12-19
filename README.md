@@ -14,7 +14,10 @@ The Airline Manangement System is a full-stack web application which is develope
 - CSS
 - JAVASCRIPT
 - BOOTSTRAP
-Backend
+- Backend:
+- Server-side framework (PHP).
+- Database:
+- MySQL.
 
   
 # Features
