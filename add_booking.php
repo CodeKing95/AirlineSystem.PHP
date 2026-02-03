@@ -14,7 +14,7 @@ body {
     background: linear-gradient(to bottom right, #005eb8, #199ded);
     min-height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: center;    
     align-items: center;
 }
 .form-container {
