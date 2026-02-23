@@ -1,5 +1,5 @@
 <?php include 'db.php'; ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 <head>
     <title>Add Passenger</title>
