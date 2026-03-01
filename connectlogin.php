@@ -4,7 +4,7 @@ $username = "root";
 $password = ""; 
 $dbname = "login";
 
-// Correct connection variable
+// Correct connection variable 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 if ($conn->connect_error) {
