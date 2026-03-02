@@ -1,4 +1,4 @@
-<?php include "db1.php"; ?>
+<?php include "db1.php"; ?> 
 
 <!DOCTYPE html>
 <html lang="en">
