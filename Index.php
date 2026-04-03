@@ -17,7 +17,7 @@
   <body>
     <nav>
       <div class="nav__header">
-        <div class="nav__logo">
+        <div class="nav__logo"> 
           <a href="#" class="logo">AirStar</a>
         </div>
         <div class="nav__menu__btn" id="menu-btn">
